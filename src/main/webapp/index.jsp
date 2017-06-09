@@ -14,6 +14,7 @@
 <body>
 
     <a href="admin/admin-list">User列表</a>
+    <a href="admin/admin-list">User列表2</a>
 
 
 </body>
